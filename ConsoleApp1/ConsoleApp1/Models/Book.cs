@@ -10,6 +10,6 @@ namespace ConsoleApp1.Models
     {
         public string Name { get; set; }
         public string Price { get; set; }
-        public int Pages { get; set; }
+        public long Pages { get; set; }
     }
 }

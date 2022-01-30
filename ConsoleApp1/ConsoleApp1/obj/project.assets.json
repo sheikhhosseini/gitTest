@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\saeed-ssd\\Desktop\\aa\\gitTest\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj",
+      "projectUniqueName": "C:\\Users\\saeed-ssd\\Desktop\\bb\\gitTest\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj",
       "projectName": "ConsoleApp1",
-      "projectPath": "C:\\Users\\saeed-ssd\\Desktop\\aa\\gitTest\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj",
+      "projectPath": "C:\\Users\\saeed-ssd\\Desktop\\bb\\gitTest\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj",
       "packagesPath": "C:\\Users\\saeed-ssd\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\saeed-ssd\\Desktop\\aa\\gitTest\\ConsoleApp1\\ConsoleApp1\\obj\\",
+      "outputPath": "C:\\Users\\saeed-ssd\\Desktop\\bb\\gitTest\\ConsoleApp1\\ConsoleApp1\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\saeed-ssd\\AppData\\Roaming\\NuGet\\NuGet.Config",
